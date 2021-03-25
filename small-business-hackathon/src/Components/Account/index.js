@@ -1,8 +1,8 @@
 import './styles.css';
-import { BottomNavigationAction } from '@material-ui/core';
+import TwitterIcon from '@material-ui/icons/Twitter';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import InstagramIcon from '@material-ui/icons/Instagram';
-import TwitterIcon from '@material-ui/icons/Twitter';
+import { BottomNavigationAction } from '@material-ui/core';
 
 const Account = () => {
     return (
