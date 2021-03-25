@@ -1,5 +1,5 @@
 import React from "react";
-
+import React from 'react';
 const settings = () => {
   return (
     <div className="settingsContatiner">
@@ -35,7 +35,7 @@ const settings = () => {
         </div>
       </div>
       <div className="rightColumn">
-        
+
       </div>
     </div>
   );
