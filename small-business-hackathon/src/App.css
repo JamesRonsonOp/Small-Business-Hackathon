@@ -5,11 +5,10 @@
 } */
 
 .App {
-    font-family: 'Noto Sans TC', sans-serif;
+
+    font-family: 'Noto Sans TC';
     /* width: 100%;
     height: auto; */
-    font-family: 'Noto Sans TC';
-    display: flex;
     max-width: 1920px;
     max-height: 100vh;
     margin: auto;
