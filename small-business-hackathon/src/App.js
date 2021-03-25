@@ -2,7 +2,7 @@ import React from "react";
 import "./index.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Dashboard from './Components/Dashboard/dashboard';
-import Menu from './Components/Menu/menu';
+import Menu from './Components/Menu';
 import Reservations from './Components/Reservations/reservations';
 
 function App() {
