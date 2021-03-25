@@ -3,6 +3,7 @@ import React from 'react';
 const menu = () => {
     return (
         <>
+        <div className = "menuContainer">
         <div className = "column-left">
             <div className = "menuTitle">
                 Lunch Menu
@@ -106,6 +107,9 @@ const menu = () => {
             </h3>
 
         </div>
+        </div>
         </>
     )
 };
+
+export default menu;
