@@ -1,3 +1,7 @@
 .container {
     display: flex;
 }
+
+.menuTitle {
+    font: 20px;
+}
