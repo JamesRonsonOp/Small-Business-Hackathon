@@ -1,4 +1,4 @@
-import './Account.css';
+import './styles.css';
 
 const Account = () => {
     return (
