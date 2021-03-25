@@ -1,4 +1,4 @@
-import './styles.css';
+import './Account.css';
 
 const Account = () => {
     return (
@@ -20,7 +20,9 @@ const Account = () => {
                 <h2 className="businessWebsite">Restaurantname.com</h2>
                 </div>
                 <div className="socialMediaIcons">
-
+            <img />
+            <img />
+            <img />
                 </div>
                 <div className="businessHours">
                 <ul className="businessHoursList">
