@@ -1,4 +1,8 @@
 import './styles.css';
+import { BottomNavigationAction } from '@material-ui/core';
+import FacebookIcon from '@material-ui/icons/Facebook';
+import InstagramIcon from '@material-ui/icons/Instagram';
+import TwitterIcon from '@material-ui/icons/Twitter';
 
 const Account = () => {
     return (
@@ -20,7 +24,9 @@ const Account = () => {
                 <h2 className="businessWebsite">Restaurantname.com</h2>
                 </div>
                 <div className="socialMediaIcons">
-
+                <BottomNavigationAction icon={<FacebookIcon/>} />
+                <BottomNavigationAction icon={<InstagramIcon/>} />
+                <BottomNavigationAction icon={<TwitterIcon/>} />
                 </div>
                 <div className="businessHours">
                 <ul className="businessHoursList">
