@@ -4,7 +4,7 @@ import {Route, Switch} from 'react-router';
 import Dashboard from './Components/Dashboard';
 import Menu from './Components/Menu';
 import Reservations from './Components/Reservations';
-import Account from './Components/Account';
+import Account from './Components/Account/Account';
 import Navigate from './Components/Navbar';
 
 function App() {
