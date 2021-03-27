@@ -1,0 +1,28 @@
+.settingscontainer {
+  display: flex;
+  height: auto;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.leftColumn {
+display: flex;
+flex-direction: column;
+height: auto;
+width: 25%;
+margin: 0 auto;
+}
+/* .accountInformationColumn {
+  
+
+} */
+
+.rightColumn {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width: 40%;
+  margin: 0 auto;
+  /* flex-direction: row; */
+}
+

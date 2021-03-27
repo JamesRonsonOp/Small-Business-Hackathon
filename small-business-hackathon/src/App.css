@@ -5,13 +5,13 @@
 } */
 
 .App {
-  font-family: 'Noto Sans TC';
-  display: flex;
-  max-width: 1920px;
-  max-height: 1080px;
-  margin: auto;
-  padding: 0rem 5% 0rem 5%;
-  overflow: hidden;
-  overflow-y: hidden;
-  overflow-x: hidden;
-}
+    font-family: 'Noto Sans TC';
+    display: flex;
+    max-width: 1920px;
+    max-height: 1080px;
+    margin: auto;
+    padding: 0rem 5% 0rem 5%;
+    overflow: hidden;
+    overflow-y: hidden; 
+    overflow-x: hidden; 
+  }
